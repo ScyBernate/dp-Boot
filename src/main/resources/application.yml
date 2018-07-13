@@ -4,7 +4,7 @@ server:
         uri-encoding: UTF-8
         max-threads: 1000
         min-spare-threads: 30
-    port: 80
+    port: 8081
     #打开注释，则通过【http://localhost/dp-lte】访问
     #context-path: /dp-lte
 
